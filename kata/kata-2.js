@@ -1,20 +1,36 @@
 // hasItem should return true if `item` is present in `arr` at least once,
 // otherwise it should return false.
+
 function hasItem (arr, item) {
-var item = []
-for (i = 0; i < item.length; i++) {
-item.filter(arr[i]) = true
-}
-return arr.item
+var thing = []
+  for (i = 0; i < arr.length; i++) {
+    if (thing.slice(arr['a'])) {
+      return true
+    } else (arr['b']) {
+      return false
+    }
+  }
 }
 
 
-// if (arr[item]) {
-// return !false
-//   }  else {
-//       return true
-//     }
-//   }
+
+  // function find (arr, seCond) {
+  //   var first = []
+  //   for (j=0; j<arr.length; j++) {
+  //     if (seCond(arr[j])) {
+  //     return first.push(arr[j])
+  //     }
+  //   }
+  // }
+
+  // function hasItem (arr, item) {
+  // var thing = []
+  //   for (i = 0; i < arr.length; i++) {
+  //     if (thing.push(arr[item])) {
+  //       return item[i]
+  //       }
+  //     }
+  //   }
 
 // getItemAtIndex should return arr[idx] but only if that index exists:
 // if it doesn't, return a JavaScript Error object.
