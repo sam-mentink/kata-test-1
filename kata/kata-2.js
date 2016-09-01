@@ -6,9 +6,11 @@ var thing = []
   for (i = 0; i < arr.length; i++) {
     if (thing.slice(arr['a'])) {
       return true
-    } else (arr['b']) {
-      return false
+    } else if arr.['b'] {
+
     }
+     return false
+}
   }
 }
 
